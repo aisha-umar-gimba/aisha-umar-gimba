@@ -1,7 +1,7 @@
 # Hello there; welcome 👋🏾
 
 
-I'm a Junior Frontend Web Developer Software who currently serve as a Google Developer Student Clubs Lead at my College. I'm passionate about sharing knowledge, documentation, web engineering, and others, speak at some meetups/conferences, build technical communities...
+I'm a Junior Frontend Web Developer who currently serve as a Google Developer Student Clubs Lead at my College. I'm passionate about sharing knowledge, documentation, web engineering, and others, speak at some meetups/conferences, build technical communities...
 
 **Here's a quick summary about me**:
 
